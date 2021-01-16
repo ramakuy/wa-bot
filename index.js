@@ -2267,7 +2267,9 @@ Zulu = zu`, MessageType.text, {quoted: m});
 
 //Hay gay
 //Create @mrf.zvx don't delate this, please
-
+//Mod by @sarjananet
+//       @NEWSTORYBOT
+//       @ownerSTORYBOT
 
 
 })
