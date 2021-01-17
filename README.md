@@ -296,7 +296,7 @@ Download [Disini](https://play.google.com/store/apps/details?id=com.foxdebug.aco
 ## Contacts
 * [Instagram](https://www.instagram.com/sarjananet/)
 * [Facebook](hilang)
-* My whatsapp bot [NEW STORY BOT](https://wa.me/6283851902588)
+* My whatsapp bot [NEW STORY BOT](https://wa.me/6285730894775)
 
 
 ## Terimakasih untuk
